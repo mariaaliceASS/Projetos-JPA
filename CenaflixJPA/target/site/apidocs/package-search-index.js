@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.cenaflixjpa"},{"l":"com.mycompany.cenaflixjpa.gui"},{"l":"com.mycompany.cenaflixjpa.model"}];updateSearchResults();
